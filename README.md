@@ -38,6 +38,8 @@ in full stack software development at Holberton School Cohort 10 Bogotá Colombi
 
 ---
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=julianchok25)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/julianchok25
 [instagram]: https://instagram.com/julianchoville
 [linkedin]: https://linkedin.com/in/julianvillegas25
