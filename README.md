@@ -1,22 +1,20 @@
 ### Hi there, I'm Julian Villegas. 👋
 
-I'm software and systems engineer👨‍💻. Passionate about technology. I studied foundations
-in full stack software development at Holberton School Cohort 10 Bogotá Colombia⚔️
+I'm software and systems engineer👨‍💻. Passionate about technology.
+Currently I work in Banco de Bogotá remotely as Analyst Semi Senior⚔️
 
-- 👨🏻‍🚀 I Keep learning virtually every day. Never stop
-- 🧠 I’m currently learning Javascript and Python
-- 💼 I’m looking for a job as a Jr Full Stack in a startup or tech industry
-- 🥅 2020 Goals: Get an immersive development experience
+- 👨🏻‍🚀 I Keep learning virtually every day. Never stop.
+- 🧠 I’m currently learning Javascript in front and back.
+- 💼 I’m looking for a job as a Sr Full Stack in a startup or tech industry
+- 🥅 2023 Goals: Boost my carreer as a software engineer. Reach Senior.
 - 📫 How to reach me: julian.villegasplus@gmail.com
-- 😄 Pronouns: light bulb 💡
-- ⚡ Fun fact: Play soccer⚽️ Tennis 🎾 and Bask 🏀 | Travel✈️ | Sometimes to play Poker ♣️♦️♠️♥️😎
+- ⚡ Fun fact: Play soccer⚽️ Tennis 🎾 | Travel✈️ | Read Books 😎
 - 💛 Lovers: Kitties😼
 
 ### Connect with me:
 
 [<img align="left" alt="julianchok25 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="julianvillegas25 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="julianchoville | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
