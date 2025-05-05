@@ -1,12 +1,12 @@
 ### Hi there, I'm Julian Villegas. 👋
 
 I'm software and systems engineer👨‍💻. Passionate about technology.
-Currently I work in Banco de Bogotá remotely as Analyst Semi Senior⚔️
+Currently I work in Banco de Bogotá remotely as Senior⚔️
 
 - 👨🏻‍🚀 I Keep learning virtually every day. Never stop.
 - 🧠 I’m currently learning Javascript in front and back.
 - 💼 I’m looking for a job as a Sr Full Stack in a startup or tech industry
-- 🥅 2023 Goals: Boost my carreer as a software engineer. Reach Senior.
+- 🥅 2025 Goals: Boost my carreer as a software engineer. Reach Senior.
 - 📫 How to reach me: julian.villegasplus@gmail.com
 - ⚡ Fun fact: Play soccer⚽️ Tennis 🎾 | Travel✈️ | Read Books 😎
 - 💛 Lovers: Kitties😼
